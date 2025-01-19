@@ -1,0 +1,9 @@
+API\GetSpecificCurrenciesRate.class
+stepDefinition\API\LocationWeatherApiStepDef.class
+stepDefinition\API\MultipleCurrentLocations_StepDef.class
+runners\TestRunner.class
+stepDefinition\FE\ItemDetails_StepDef.class
+stepDefinition\API\FixerStepDef.class
+stepDefinition\FE\Login_StepDef.class
+API\GetLocationWeather.class
+stepDefinition\FE\BuyItems_StepDef.class

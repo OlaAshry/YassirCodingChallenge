@@ -1,0 +1,8 @@
+Pages\InformationPage.class
+Utilis\TestBase.class
+Pages\loginPage.class
+Utilis\Config.class
+Pages\CartPage.class
+Pages\CheckOutPage.class
+Pages\ItemDetailsPage.class
+Pages\HomePage.class
